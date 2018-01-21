@@ -1,2 +1,2 @@
-# hapi-rest-demo
-A SpiderTutorial Demo project
+# aws-nodejs-app
+A nodejs app for aws 

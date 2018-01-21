@@ -1,20 +1,20 @@
 {
-  "name": "hapi-rest-demo",
+  "name": "aws-nodejs-app",
   "version": "1.0.0",
-  "description": "A SpiderTutorial Demo project",
+  "description": "AWS nodejs App",
   "main": "index.js",
   "scripts": {
     "test": "istanbul cover _mocha test/**/*.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/espiderinc/hapi-rest-demo.git"
+    "url": "git+https://github.com/Jay-Wani/aws-nodejs-app.git"
   },
   "keywords": [
     "nodejs",
     "hapijs"
   ],
-  "author": "SpiderTutorial",
+  "author": "Junaid",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/espiderinc/hapi-rest-demo/issues"

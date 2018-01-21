@@ -17,9 +17,9 @@
   "author": "Junaid",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/espiderinc/hapi-rest-demo/issues"
+    "url": "https://github.com/Jay-Wani/aws-nodejs-app/issues"
   },
-  "homepage": "https://github.com/espiderinc/hapi-rest-demo#readme",
+  "homepage": "https://github.com/Jay-Wani/aws-nodejs-app#readme",
   "dependencies": {
     "hapi": "^13.3.0",
     "pg": "^4.5.5",
